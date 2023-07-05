@@ -1,14 +1,11 @@
 ### 
 Científico, Químico, Profesor, Formador, Knowmad, Experto en Seguridad.
-🔭 I’m currently working on ...
+🔭 I’m currently working on Vivir, curador de información científica, literaria, económica, artística, crítica politica...
 - 🌱 I’m currently learning Desarrollo en Ruby on Rails. para emprendimientos tipo Startup.
 - 👯 I’m looking to collaborate on desarrollo comunitario.
 - 🤔 I’m looking for help with manejo de plaformas digitales por adultos mayores y otros.
 - 💬 Ask me about vivir sion estrés, disfrutar de la vida, vivir el hoy, ser feliz.
 - 📫 How to reach me: jose.oyarzun@gmail.com,  Faceboock, Twitter, LinkedIn.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
