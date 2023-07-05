@@ -1,5 +1,10 @@
 ### prueba1
 
+Científico, Químico, Profesor, Formador, Knowmad. Experto en Seguridad.
+
+
+
+
 <!--
 **jios1/jios1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
