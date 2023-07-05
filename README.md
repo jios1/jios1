@@ -1,5 +1,6 @@
 ### 
 Científico, Químico, Profesor, Formador, Knowmad, Experto en Seguridad.
+
 🔭 I’m currently working on Vivir, curador de información científica, literaria, económica, artística, crítica politica...
 - 🌱 I’m currently learning Desarrollo en Ruby on Rails. para emprendimientos tipo Startup.
 - 👯 I’m looking to collaborate on desarrollo comunitario.
